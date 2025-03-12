@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "shJaFEqDdDdiyLDQHtjFqDhIE9PeTQL8c61XbXjaw3k=",
+  "Source": "DataService",
+  "BasePath": "_content/DataService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

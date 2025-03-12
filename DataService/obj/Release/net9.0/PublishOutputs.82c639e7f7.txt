@@ -1,0 +1,9 @@
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\DataService.exe
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\appsettings.Development.json
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\appsettings.json
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\DataService.dll
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\DataService.deps.json
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\DataService.runtimeconfig.json
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\DataService.pdb
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\37369\OneDrive\Рабочий стол\Lab2\DataService\out\Microsoft.OpenApi.dll

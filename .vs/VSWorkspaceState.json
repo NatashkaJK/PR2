@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataService\\bin\\Release\\net9.0",
+    "\\DataService\\Controllers",
+    "\\DataService\\Models",
+    "\\DataService\\Properties",
+    "\\QueryService",
+    "\\QueryService\\bin\\Debug",
+    "\\QueryService\\bin\\Debug\\net9.0",
+    "\\QueryService\\Controllers",
+    "\\QueryService\\Models"
+  ],
+  "SelectedNode": "\\QueryService\\Models\\Query.cs",
+  "PreviewInSolutionExplorer": false
+}
